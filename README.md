@@ -49,7 +49,7 @@
 
 ## 5. Integrate the block chain into MyCryto
 
-### 5.1 MyCrypto Custome Node 
+### 5.1 MyCrypto Custom Node 
 ![MyCryto](./Screenshots/09_MyCrypto_custom_node.png)
 
 ### 5.2 Send ETH 
