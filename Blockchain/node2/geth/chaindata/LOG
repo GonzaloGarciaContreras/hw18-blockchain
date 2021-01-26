@@ -40,3 +40,6 @@
 19:00:09.172207 version@stat F·[3] S·52KiB[52KiB] Sc·[0.75]
 19:00:09.201962 db@janitor F·5 G·0
 19:00:09.202011 db@open done T·53.304296ms
+=============== Jan 25, 2021 (CST) ===============
+16:20:42.392908 db@close closing
+16:20:42.393843 db@close done T·931.181µs
